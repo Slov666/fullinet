@@ -124,6 +124,8 @@ div.cara {
 
 .menu__item a:hover {
   background-color: #f3f3f3;
+  color: #9c7996;
+  transition: 250ms ease-in-out;
 }
 
 /* --- */
