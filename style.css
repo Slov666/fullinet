@@ -354,6 +354,16 @@ ol {
 }
 
 /* ------------------------------------------------------- Contact ---------- */
+.contact__icon{
+    position: absolute;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    top: 0px;
+    left: 0px;
+    fill: #011a15;
+  
+}
 .form__elements {
   display: -webkit-box;
   display: -ms-flexbox;
